@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHUToOm0zrBO04OYa/nvn0VPnZk0Eh+B8932yJOcWAdBbFJ9QlKQtgrZKDAY6at/z4yBJAYbkqUaxwx8co0xNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dallas\\Desktop\\devCodeCamp\\C# intro\\SongWebApi\\SongWebApi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dallas\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
